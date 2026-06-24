@@ -2,4 +2,8 @@
 __pycache__/
 *.py[cod]
 .streamlit/
+.chroma/
 .DS_Store
+.env
+.env.*
+!.env.example
